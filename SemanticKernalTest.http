@@ -1,0 +1,11 @@
+@SemanticKernalTest_HostAddress = http://localhost:5079
+
+GET {{SemanticKernalTest_HostAddress}}/swagger/index.html
+Accept: application/json
+
+###
+
+GET {{SemanticKernalTest_HostAddress}}/swagger/index.html
+Accept: application/json
+
+###
